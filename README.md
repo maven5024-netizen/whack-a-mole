@@ -2,7 +2,7 @@
 
 一个用纯 HTML + CSS + JavaScript 写的打地鼠小游戏,无需安装、无需构建,单文件即可运行。
 
-🎮 **在线试玩**:`https://你的用户名.github.io/whack-a-mole/`(开启 GitHub Pages 后生效)
+🎮 **在线试玩**:[https://maven5024-netizen.github.io/whack-a-mole/](https://maven5024-netizen.github.io/whack-a-mole/)
 
 <!-- 在这里放一张截图:![截图](screenshot.png) -->
 
